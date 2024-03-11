@@ -69,12 +69,6 @@
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
 <br>
-    
-- **Mobile Development**:
-
-   ![KOTLIN](https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=%23FFFFFF&link=https%3A%2F%2Fkotlinlang.org%2Fdocs%2Fhome.html)
-
-<br>
 
 - **Softwares and Tools**:
 
