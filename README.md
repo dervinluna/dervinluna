@@ -55,7 +55,7 @@
 
   <br>
 
-  - **Frameworks Front-End Development**:
+- **Frameworks Back-End Development**:
 
   ![Spring](https://img.shields.io/badge/spring%20boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=%23FFFFFF)
   ![Angular](https://img.shields.io/badge/Angular-%23C3002F?style=for-the-badge&logo=angular)
