@@ -48,10 +48,10 @@
 
 <br>
 
-- **Frameworks**:
+- **Frameworks Front-End Development**:
 
-  ![React-TS](https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react).
-  ![Angular](https://img.shields.io/badge/Angular-%23C3002F?style=for-the-badge&logo=angular).
+  ![React-TS](https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react)
+  ![Angular](https://img.shields.io/badge/Angular-%23C3002F?style=for-the-badge&logo=angular)
 
   <br>
 
