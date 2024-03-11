@@ -17,6 +17,7 @@
 
 <br>
 - Personal website [link](https://www.linkedin.com/in/dervin-ardani-hern%C3%A1ndez-luna-292524158/)
+
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/Dervin)
 
 <br><br>
