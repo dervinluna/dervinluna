@@ -69,6 +69,7 @@
   ![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=%23FFFFFF)
   ![mysql](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23FFFFFF)
   ![Sqlserver](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=%23FFFFFF)
+  ![postgres](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%23FFFFFF)
   
   
 
