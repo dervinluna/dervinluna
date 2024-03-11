@@ -115,6 +115,9 @@
     ![Visual Studio Code]( https://img.shields.io/badge/React%20Query-%23FF4154?style=for-the-badge&logo=reactquery&logoColor=%23FFFFFF)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Vite](https://img.shields.io/badge/vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=%23FFFFFF)
+    ![copilot]( https://img.shields.io/badge/GitHub%20Copilot%09-%23000000?style=for-the-badge&logo=githubcopilot&logoColor=%23FFFFFF)
+ 
+
   	
 
 <br>
