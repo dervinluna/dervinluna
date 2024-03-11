@@ -50,7 +50,8 @@
 
 - **Frameworks**:
 
-  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![React-TS](https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react).
+  ![Angular]([https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react](https://img.shields.io/badge/Angular-%23C3002F?style=for-the-badge&logo=angular)).
 
   <br>
 
