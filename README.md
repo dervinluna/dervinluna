@@ -16,10 +16,14 @@
 
 
 <br>
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
+- Experienced software developer
+- Passionate about innovation and problem-solving
+- Skilled in designing and implementing efficient software applications
+- Proficient in multiple programming languages and technologies
+- Thrives in dynamic environments
+- Focuses on clean code and best practices
+- Committed to delivering high-quality software solutions
+- Dedicated to meeting user and business needs
 - Personal website [link](https://www.linkedin.com/in/dervin-ardani-hern%C3%A1ndez-luna-292524158/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/Dervin)
 
