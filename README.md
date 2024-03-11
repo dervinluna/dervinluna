@@ -51,7 +51,7 @@
 - **Frameworks**:
 
   ![React-TS](https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react).
-  ![Angular]([https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react](https://img.shields.io/badge/Angular-%23C3002F?style=for-the-badge&logo=angular)).
+  ![Angular](https://img.shields.io/badge/Angular-%23C3002F?style=for-the-badge&logo=angular).
 
   <br>
 
