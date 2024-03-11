@@ -55,6 +55,13 @@
 
   <br>
 
+  - **Frameworks Front-End Development**:
+
+  ![Spring](https://img.shields.io/badge/spring%20boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=%23FFFFFF)
+  ![Angular](https://img.shields.io/badge/Angular-%23C3002F?style=for-the-badge&logo=angular)
+
+  <br>
+
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
