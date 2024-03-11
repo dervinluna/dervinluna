@@ -64,6 +64,12 @@
    
    <br>
 
+- **Data Bases**:
+
+    ![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=%23FFFFFF)
+    
+   <br>
+
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
