@@ -34,7 +34,7 @@
 
 - **Languages**:
     
-    ![React-TS](https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react)
+    ![TS](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23FFFFFF&link=https%3A%2F%2Fwww.typescriptlang.org%2F)
     <object link="https://spring.io/projects/spring-boot">![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)<object>
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
