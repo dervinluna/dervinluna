@@ -55,7 +55,14 @@
 
   ![Spring](https://img.shields.io/badge/spring%20boot-%236DB33F%20?style=for-the-badge&logo=springboot&logoColor=%23FFFFFF&link=https%3A%2F%2Fspring.io%2Fprojects%2Fspring-boot)
   ![.NET](https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=%23FFFFFF&link=https%3A%2F%2Fdotnet.microsoft.com%2Fes-es%2Flearn%2Fdotnet%2Fwhat-is-dotnet-framework)
-  
+
+   <br>
+
+- **Mobile Development**:
+
+  ![KOTLIN](https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=%23FFFFFF&link=https%3A%2F%2Fkotlinlang.org%2Fdocs%2Fhome.html)
+   
+   <br>
 
 - **Cloud Hosting**:
 
