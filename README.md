@@ -64,6 +64,13 @@
    
    <br>
 
+- **Frameworks Style **:
+
+  ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%23FFFFFF)
+  ![bostrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%23FFFFFF)
+
+  <br>
+
 - **Data Bases**:
 
   ![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=%23FFFFFF)
