@@ -35,6 +35,7 @@
 - **Languages**:
     
     ![TS](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23FFFFFF&link=https%3A%2F%2Fwww.typescriptlang.org%2F)
+    ![Java](https://img.shields.io/badge/JAVA-%236DB33F?style=for-the-badge&logo=springboot&logoColor=%23FFFFFF)
     <object link="https://spring.io/projects/spring-boot">![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)<object>
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
